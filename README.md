@@ -27,7 +27,7 @@ Ctrl + Shift + Page_Down | Scroll Down
 
 # Dependecies
 
-# Void
++ Void
 ```
 xbps-install pkgconf pkgconf-devel libXft-devel libX11-devel libXinerama-devel
 ```
