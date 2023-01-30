@@ -2,7 +2,7 @@ st is a simple terminal implementation for X.
 
 # **Preview**
 <img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/st-preview%2302.png"><br>
-<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/st-preview%2303.png"><br><br>
+<img src="https://filedn.com/lndsHOIbWNoRqUhvg4xD1oh/rice/st-preview%2304.png"><br><br>
 
 # **Patch Applied**
 + [st-alpha-0.8.5.diff](https://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
