@@ -26,7 +26,7 @@ Ctrl + Shift + Page_Up | Scroll Up
 Ctrl + Shift + Page_Down | Scroll Down
 ```
 
-# Dependecies
+# Requirements
 
 + Void
 ```
@@ -45,5 +45,4 @@ git clone https://github.com/gillgrite/st.git
 ```
 ./stclean
 ```
-
 
