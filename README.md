@@ -23,13 +23,13 @@ Shift + Page_Down | Scroll Down
 ```
 
 # Requirements
-
 + Void
 ```
 xbps-install pkgconf pkgconf-devel libXft-devel libX11-devel libXinerama-devel
 ```
+# Optional (fallback is using the default monospace)
 ```
-Nerd Font JetBrains
+[M PLUS FONT](https://github.com/coz-m/MPLUS_FONTS)
 ```
 # Install
 **Clone repo**
