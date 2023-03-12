@@ -27,10 +27,9 @@ Shift + Page_Down | Scroll Down
 ```
 xbps-install pkgconf pkgconf-devel libXft-devel libX11-devel libXinerama-devel
 ```
-# Optional (fallback is using the default monospace)
-```
++ Optional (fallback is using the default monospace)
 [M PLUS FONT](https://github.com/coz-m/MPLUS_FONTS)
-```
+
 # Install
 **Clone repo**
 ```
