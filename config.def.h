@@ -8,6 +8,7 @@
 static char *font = "M PLUS Code Latin 50:Semibold:size=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+"monospace:size=14",
 "Symbols NF:Semibold:size=14",
 };
 static int borderpx = 12;
