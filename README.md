@@ -1,6 +1,10 @@
 st is a simple terminal implementation for X.
 
 # **Preview**
+<p align="center">
+    <img src="https://github.com/motolla/st/blob/main/preview.png">
+</p>
+
 
 # **Quick Keybind**
 ```
